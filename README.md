@@ -1,5 +1,5 @@
 # FreeBuff-Increased-reading
-FreeBuff阅读量增加
+# FreeBuff阅读量增加
 发现在Freebuff上某些文章竟达到惊人的百万级别阅读量围观，真的有这么多人嘛？
 ![image](https://github.com/MY0723/FreeBuff-Increased-reading/assets/74171727/7b124d0b-df39-467b-a224-34d595a7a960)
 ![image](https://github.com/MY0723/FreeBuff-Increased-reading/assets/74171727/57569481-361e-4cad-877a-13740ff62a42)
