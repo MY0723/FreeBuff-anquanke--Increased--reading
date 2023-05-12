@@ -14,7 +14,7 @@ FreeBuff阅读量增加
 好像这就是一个热度的展示，并不是真实的人数
 如果我们简单写一个脚本每多少秒就访问一下文章岂不是可以刷浏览量，使我们的文章热度排名靠前呢
 
-import time
+ `<import time
 import urllib.request
 import argparse
 
@@ -28,7 +28,7 @@ while True:
         print(f'{args.url} 访问成功')
     except:
         print(f'{args.url} 访问失败')
-    time.sleep(1.3)
+    time.sleep(1.3)>`  
     
 将文件保存为visit_url.py
 使用方法：python visit_url.py -u 文章链接
