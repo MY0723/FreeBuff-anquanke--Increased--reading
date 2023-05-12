@@ -3,6 +3,7 @@ FreeBuff阅读量增加
 发现在Freebuff上某些文章竟达到惊人的百万级别阅读量围观，真的有这么多人嘛？
 ![image](https://github.com/MY0723/FreeBuff-Increased-reading/assets/74171727/7b124d0b-df39-467b-a224-34d595a7a960)
 ![image](https://github.com/MY0723/FreeBuff-Increased-reading/assets/74171727/57569481-361e-4cad-877a-13740ff62a42)
+
 明明百万级别阅读量也就几条评论感觉有点怪怪的，我尝试去发现这个数量是怎么增加的
 发现每刷新一回都是十几几十不等的阅读量增加，在数量上好像也没什么规律，但是每刷新一回基本上都会增加
 ![image](https://github.com/MY0723/FreeBuff-Increased-reading/assets/74171727/b2f5f5e6-c5a5-4034-ba27-6f4cdf05b130)
